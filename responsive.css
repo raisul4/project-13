@@ -379,7 +379,7 @@
     height: 100vh;
     width: 50%;
     width: 71%;
-    margin-left: -101px;
+    margin-left: -96px;
     justify-content: flex-start;
     z-index: 4;
     opacity: 0;
@@ -398,7 +398,8 @@
     font-size: 30px;
     cursor: pointer;
     display: block;
-    margin-right: 52px;
+    display: inline-block;
+    margin-left: 425px;
     color: rgb(9, 59, 133);
   }
   .second_nav ul.nav_active {
